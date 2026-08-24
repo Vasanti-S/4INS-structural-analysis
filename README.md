@@ -34,16 +34,15 @@ The analysis includes:
 
 ### 1. Overall insulin structure
 
-![Overall structure of insulin](01_insulin_overview.png)
+![Overall structure of insulin](images/01_insulin_overview.png)
 
 ### 2. Tyr14 highlighted
 
-![Tyr14 highlighted](02_tyr14_highlighted.png)
+![Tyr14 highlighted](images/02_tyr14_highlighted.png)
 
 ### 3. Local structural environment of Tyr14
 
-![Tyr14 local environment](03_tyr14_local_environment.png)
-
+![Tyr14 local environment](images/03_tyr14_local_environment.png)
 ## Notebook
 
 The complete analysis is available in:
